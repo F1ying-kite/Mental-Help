@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+li {
+    @apply leading-loose;
+}
+
+p {
+    @apply leading-loose;
+}
